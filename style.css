@@ -1,3 +1,5 @@
+/* Global Styles */
+
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -7,17 +9,21 @@ body {
 }
 
 .container {
+  overflow: auto;
   max-width: 800px;
   margin: 0 auto;
-  padding: 20px;
+  padding: 80px;
 }
 
 /* Header Styles */
 
 header {
-  background-color: #A685E2;
+  display: block;
+  background-color: #cff4ec;
   color: #fff;
   padding: 10px;
+  position: fixed;
+  width: 100%;
 }
 
 nav ul {
@@ -64,11 +70,18 @@ nav ul li a:hover {
   display: block;
 }
 
+.company {
+  color: #6f45bc;
+  font-family: cursive;
+  font-style: dancingscript-regular;
+  font-size: 40px;
+}
 .get-started-btn {
-  background-color: #555;
+  background-color: #6f45bc;
   color: #fff;
   padding: 10px;
   cursor: pointer;
+  float: right;
 }
 
 /* Main Content Styles */
@@ -130,10 +143,75 @@ h1 {
 /* Footer Styles */
 
 footer {
-  background-color: #A685E2;
+  background-color: #cff4ec;
   color: #fff;
-  padding: 10px;
+  padding: 3px;
   text-align: center;
+/*   position: fixed;
+  bottom: 0;
+  width: 100%; */
+}
+
+/* Login/Signup Pop-up Styles */
+
+.login-popup,
+.signup-popup {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 2;
+}
+
+.login-form,
+.signup-form {
+  background-color: #fff;
+  max-width: 400px;
+  margin: 100px auto;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.2);
+}
+
+.login-form h2,
+.signup-form h2 {
+  text-align: center;
+  color: #333;
+}
+
+.login-form input,
+.signup-form input {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.login-form button,
+.signup-form button {
+  background-color: #555;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  width: 100%;
+  cursor: pointer;
+}
+
+.login-form p,
+.signup-form p {
+  text-align: center;
+}
+
+.login-form a,
+.signup-form a {
+  color: #555;
+  text-decoration: underline;
+  cursor: pointer;
 }
 
 /* Responsive Styles */
