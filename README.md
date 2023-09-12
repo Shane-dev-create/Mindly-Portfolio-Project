@@ -1,6 +1,6 @@
 # Mindly Mental Health Project
 
-#mindly
+# mindly
 
 ![Project Image](https://pbs.twimg.com/media/F51KGpGaEAEJH6g?format=jpg&name=small)
 
@@ -28,7 +28,7 @@ You're sections headers will be used to reference location of destination.
 - CSS 
 - JavaScript
 
-[Back To The Top](#mindly)
+[Back To The Top](# mindly)
 
 ---
 ## How To Use
@@ -39,7 +39,7 @@ Mindly is currently deployed at:
 [live website](https://shane-dev-create.github.io/Mindly-Portfolio-Project/index.html)  
 [Landing Page](https://xjxeij.wixsite.com/my-site)
 
-[Back To The Top](#mindly)
+[Back To The Top](# mindly)
 #### Installation
 
 To set up Mindl ylocally, follow these steps:
@@ -48,12 +48,12 @@ To set up Mindl ylocally, follow these steps:
 2. Navigate to the project directory: `cd Mindly`
 3. Open the index.html file in your preferred web browser.
 
-[Back To The Top](#mindly)
+[Back To The Top](# mindly)
 
 ---
 
 ## References
-[Back To The Top](#mindly)  
+[Back To The Top](# mindly)  
 W3Schools  
 MDN Web Docs
 
@@ -83,7 +83,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#mindly)
+[Back To The Top](# mindly)
 
 ---
 
@@ -91,4 +91,4 @@ SOFTWARE.
 
 - Twitter - [@shanespeare01](https://twitter.com/shanespeare01)
 
-[Back To The Top](#mindly)
+[Back To The Top](# mindly)
