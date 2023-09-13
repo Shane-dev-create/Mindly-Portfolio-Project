@@ -34,7 +34,7 @@ You're sections headers will be used to reference location of destination.
 ---
 ## How To Use
 
-One can either accessMindly directly from the project home page or from the project landing page. From there, you can navigate to different sections using the header bar. Each section provides specific information and features to support your mental health journey. Feel free to explore the resources, learn about available services, and access the support groups. You can create a personal account to save your preferences and track your progress on the platform.
+One can either access Mindly directly from the project home page or from the project landing page. From there, you can navigate to different sections using the header bar. Each section provides specific information and features to support your mental health journey. Feel free to explore the resources, learn about available services, and access the support groups. You can create a personal account to save your preferences and track your progress on the platform.
 
 Mindly is currently deployed at:  
 [Live website](https://shane-dev-create.github.io/Mindly-Portfolio-Project/index.html)  
