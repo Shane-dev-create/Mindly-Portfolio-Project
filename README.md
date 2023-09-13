@@ -6,7 +6,7 @@
 
 ---
 
-### Table of Contents
+## Table of Contents
 You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
@@ -23,7 +23,7 @@ You're sections headers will be used to reference location of destination.
 <b>Mindly<b>'s purpose is to create a safe and supportive online environment where individuals can learn, seek assistance, and find the resources needed to enhance their mental health and well-being. By providing education, reducing stigma, offering consultations  
 
 [Back To The Top](#mindly)
-### Technologies
+## Technologies
 
 - HTML
 - CSS 
@@ -37,13 +37,13 @@ You're sections headers will be used to reference location of destination.
 One can either accessMindly directly from the project home page or from the project landing page. From there, you can navigate to different sections using the header bar. Each section provides specific information and features to support your mental health journey. Feel free to explore the resources, learn about available services, and access the support groups. You can create a personal account to save your preferences and track your progress on the platform.
 
 Mindly is currently deployed at:  
-[live website](https://shane-dev-create.github.io/Mindly-Portfolio-Project/index.html)  
+[Live website](https://shane-dev-create.github.io/Mindly-Portfolio-Project/index.html)  
 [Landing Page](https://xjxeij.wixsite.com/my-site)
 
 [Back To The Top](#mindly)
-#### Installation
+## Installation
 
-To set up Mindl ylocally, follow these steps:
+To set up Mindly locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/Shane-dev-create/Mindly-Portfolio-Project.git`
 2. Navigate to the project directory: `cd Mindly`
@@ -54,9 +54,11 @@ To set up Mindl ylocally, follow these steps:
 ---
 
 ## References
-[Back To The Top](#mindly)  
+
 W3Schools  
-MDN Web Docs
+MDN Web Docs  
+
+[Back To The Top](#mindly)  
 
 ---
 
