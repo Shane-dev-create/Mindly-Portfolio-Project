@@ -95,11 +95,6 @@ nav ul li a:hover {
   float: right;
 }
 
-/* .social-media-links {
-  display: flex;
-  flex: 0 1 auto;
-
-} */
 
 /* Main Content Styles */
 
@@ -166,8 +161,12 @@ a:active {
 
 /* Footer Styles */
 
+footer ul li {
+  display: inline-block;
+
+}
+
 footer {
-  position: absolute;
   background-color: #83f8df;
   color: #000000;
   width: 100%;
